@@ -1,0 +1,9 @@
+C:\Users\KiritoSlayers\source\repos\Download Software Files\Download Software Files\bin\Debug\Download Software Files.exe.config
+C:\Users\KiritoSlayers\source\repos\Download Software Files\Download Software Files\bin\Debug\Download Software Files.exe
+C:\Users\KiritoSlayers\source\repos\Download Software Files\Download Software Files\bin\Debug\Download Software Files.pdb
+C:\Users\KiritoSlayers\source\repos\Download Software Files\Download Software Files\obj\Debug\Download_Software_Files.Form1.resources
+C:\Users\KiritoSlayers\source\repos\Download Software Files\Download Software Files\obj\Debug\Download_Software_Files.Properties.Resources.resources
+C:\Users\KiritoSlayers\source\repos\Download Software Files\Download Software Files\obj\Debug\Download Software Files.csproj.GenerateResource.cache
+C:\Users\KiritoSlayers\source\repos\Download Software Files\Download Software Files\obj\Debug\Download Software Files.csproj.CoreCompileInputs.cache
+C:\Users\KiritoSlayers\source\repos\Download Software Files\Download Software Files\obj\Debug\Download Software Files.exe
+C:\Users\KiritoSlayers\source\repos\Download Software Files\Download Software Files\obj\Debug\Download Software Files.pdb
