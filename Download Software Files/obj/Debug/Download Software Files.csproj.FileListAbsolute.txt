@@ -7,3 +7,23 @@ C:\Users\KiritoSlayers\source\repos\Download Software Files\Download Software Fi
 C:\Users\KiritoSlayers\source\repos\Download Software Files\Download Software Files\obj\Debug\Download Software Files.csproj.CoreCompileInputs.cache
 C:\Users\KiritoSlayers\source\repos\Download Software Files\Download Software Files\obj\Debug\Download Software Files.exe
 C:\Users\KiritoSlayers\source\repos\Download Software Files\Download Software Files\obj\Debug\Download Software Files.pdb
+C:\Users\KiritoSlayers\Desktop\Download_Files\Download Software Files\bin\Debug\Download Software Files.exe.config
+C:\Users\KiritoSlayers\Desktop\Download_Files\Download Software Files\bin\Debug\Download Software Files.exe
+C:\Users\KiritoSlayers\Desktop\Download_Files\Download Software Files\bin\Debug\Download Software Files.pdb
+C:\Users\KiritoSlayers\Desktop\Download_Files\Download Software Files\bin\Debug\Telerik.WinControls.dll
+C:\Users\KiritoSlayers\Desktop\Download_Files\Download Software Files\bin\Debug\Telerik.WinControls.Themes.Aqua.dll
+C:\Users\KiritoSlayers\Desktop\Download_Files\Download Software Files\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\KiritoSlayers\Desktop\Download_Files\Download Software Files\bin\Debug\TelerikCommon.dll
+C:\Users\KiritoSlayers\Desktop\Download_Files\Download Software Files\bin\Debug\Telerik.WinControls.xml
+C:\Users\KiritoSlayers\Desktop\Download_Files\Download Software Files\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\KiritoSlayers\Desktop\Download_Files\Download Software Files\obj\Debug\Download Software Files.csproj.AssemblyReference.cache
+C:\Users\KiritoSlayers\Desktop\Download_Files\Download Software Files\obj\Debug\Download_Software_Files.Form1.resources
+C:\Users\KiritoSlayers\Desktop\Download_Files\Download Software Files\obj\Debug\Download_Software_Files.Forms.Home.resources
+C:\Users\KiritoSlayers\Desktop\Download_Files\Download Software Files\obj\Debug\Download_Software_Files.Properties.Resources.resources
+C:\Users\KiritoSlayers\Desktop\Download_Files\Download Software Files\obj\Debug\Download Software Files.csproj.GenerateResource.cache
+C:\Users\KiritoSlayers\Desktop\Download_Files\Download Software Files\obj\Debug\Download Software Files.exe.licenses
+C:\Users\KiritoSlayers\Desktop\Download_Files\Download Software Files\obj\Debug\Download Software Files.csproj.CoreCompileInputs.cache
+C:\Users\KiritoSlayers\Desktop\Download_Files\Download Software Files\obj\Debug\Download Software Files.csproj.CopyComplete
+C:\Users\KiritoSlayers\Desktop\Download_Files\Download Software Files\obj\Debug\Download Software Files.exe
+C:\Users\KiritoSlayers\Desktop\Download_Files\Download Software Files\obj\Debug\Download Software Files.pdb
+C:\Users\KiritoSlayers\Desktop\Download_Files\Download Software Files\bin\Debug\Telerik.WinControls.Themes.CrystalDark.dll
